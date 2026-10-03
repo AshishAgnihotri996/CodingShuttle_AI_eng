@@ -1,0 +1,8 @@
+Python is the best programming language for beginners, data science, and AI because of its simple syntax and huge library ecosystem.
+JavaScript is the best programming language for web development because it runs in every browser.
+Rust is the best programming language for safe and fast systems programming with no garbage collector.
+Java is widely used for large enterprise applications and Android development.
+C++ is used for game engines and high performance software where speed is critical.
+Go is great for cloud services and backend servers because of its simple concurrency model.
+The best programming language depends on your goal: Python for AI, JavaScript for web, Rust for systems.
+Paris is the capital of France and is famous for the Eiffel Tower.
